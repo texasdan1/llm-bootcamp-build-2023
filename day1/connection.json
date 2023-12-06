@@ -1,11 +1,10 @@
 {
-  "account"   : "",
-  "user"      : "USER####",
-  "password"  : "",
+  "account"   : "DEFRYGI.TY20442",
+  "user"      : "QWQWQW",
+  "password"  : "Qwertyuiop1234567890",
   "role"      : "ROLE_USER####",
-  "warehouse" : "WH_XS_USER####",
-  "database"  : "DB_USER####",
+  "warehouse" : "COMPUTE_WH",
   "schema"    : "SCHEMA_LLM",
   "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": ""
+  "huggingface_token": "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"
 }
