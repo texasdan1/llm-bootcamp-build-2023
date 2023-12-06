@@ -1,11 +1,11 @@
 {
-  "account"   : "",
-  "user"      : "USER####",
-  "password"  : "",
-  "role"      : "ROLE_USER####",
-  "warehouse" : "WH_XS_USER####",
-  "database"  : "DB_USER####",
+  "account"   : "KZB10965",
+  "user"      : "USER0024",
+  "password"  : "Daniel2!",
+  "role"      : "ROLE_USER0024",
+  "warehouse" : "WH_XS_USER0024",
+  "database"  : "DB_USER0024",
   "schema"    : "SCHEMA_LLM",
-  "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": ""
+  "compute_pool" : "COMPUTE_POOL_USER0024",
+  "huggingface_token": "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"
 }
