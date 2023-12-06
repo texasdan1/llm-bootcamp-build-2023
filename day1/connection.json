@@ -3,7 +3,8 @@
   "user"      : "USER####",
   "password"  : "",
   "role"      : "ROLE_USER####",
-  "warehouse" : "COMPUTE_WH",
+  "warehouse" : "WH_XS_USER####",
+  "database"  : "DB_USER####",
   "schema"    : "SCHEMA_LLM",
   "compute_pool" : "COMPUTE_POOL_USER####",
   "huggingface_token": ""
