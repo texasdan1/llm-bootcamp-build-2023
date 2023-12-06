@@ -12,4 +12,4 @@ Learn more in the [README](/day2/README.md).
 
 ---
 
-For questions and comments about this repository, please reach out to [Dash](dash.desai@snowflake.com).
+If you have any questions or issues, please post them under [Issues](https://github.com/Snowflake-Labs/llm-bootcamp-build-2023/issues). Our team will be moderating and will be able to assist you.
