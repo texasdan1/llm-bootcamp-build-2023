@@ -1,10 +1,10 @@
 {
   "account"   : "DEFRYGI.TY20442",
   "user"      : "QWQWQW",
-  "password"  : "Qwertyuiop1234567890",
+  "password"  : "",
   "role"      : "ROLE_USER####",
   "warehouse" : "COMPUTE_WH",
   "schema"    : "SCHEMA_LLM",
   "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": "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"
+  "huggingface_token": ""
 }
